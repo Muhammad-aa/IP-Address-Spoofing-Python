@@ -8,3 +8,6 @@ $ python3 ip_spoofer.py [IP Address to Ping]
 
 The receiving computer will receive a request from you, but with a fake IP address. Perfect for evading detection.
 
+If you want a full tutorial on how to use the tool, use:
+<a href="https://thepythoncode.com/article/make-an-ip-spoofer-in-python-using-scapy>this link</a>
+
