@@ -1,4 +1,4 @@
-# IP-Address-Spoofing-Python
+# IP-Address-Spoofing-with-Python
 Crafting fake IP addresses to test network security by using Scapy and Faker to send spoofed ICMP packets. 
 
 
