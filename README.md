@@ -3,8 +3,10 @@ This script was written for the purpose of crafting fake IP addresses to test ne
 The concept can also be used for any IP address spoofing engagement. 
 However, users are advised to use the script ethically as they bear full responsibilities for their actions.
 
+
 Usage:
 $ python3 ip_spoofer.py [IP Address to Ping]
+
 
 
 The receiving computer will receive a request from you, but with a fake IP address. Perfect for evading detection.
