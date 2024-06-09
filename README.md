@@ -1,6 +1,7 @@
 # IP-Address-Spoofing-with-Python
 This script was written for the purpose of crafting fake IP addresses to test network security by using Scapy and Faker to send spoofed ICMP packets. 
-
+The concept can also be used for any IP address spoofing engagement. 
+However, users are advised to use the script ethically as they bear full responsibilities for their actions.
 
 Usage:
 $ python3 ip_spoofer.py [IP Address to Ping]
